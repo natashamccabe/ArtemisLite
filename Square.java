@@ -5,10 +5,7 @@ package artemisLite;
 
 import java.util.List;
 
-/**
- * @author emmadeane
- *
- */
+
 public class Square {
 
 	// private member vars
