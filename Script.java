@@ -7,10 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @author emmadeane
- *
- */
+
 public class Script {
 
 	public static List<String> text = new ArrayList<String>();
