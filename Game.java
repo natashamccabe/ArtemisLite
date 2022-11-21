@@ -11,10 +11,7 @@ import java.util.Scanner;
 
 import org.junit.platform.commons.util.StringUtils;
 
-/**
- * @author Damien McGloin 40000631
- *
- */
+
 public class Game {
 
 	public static List<Player> players = new ArrayList<Player>();
