@@ -4,12 +4,8 @@
 package artemisLite;
 
 import java.util.Random;
-//import java.util.Scanner;
 
-/**
- * @author natashamccabe
- *
- */
+
 public class Dice {
 
 	// private member vars for numOfSides, numOfDice, dice and diceTotal
