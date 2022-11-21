@@ -5,10 +5,8 @@ package artemisLite;
 
 import java.util.Scanner;
 
-/**
- * @author liagr
- *
- */
+
+
 public class AppManager {
 
 	/**
