@@ -6,10 +6,7 @@ package artemisLite;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author liagr
- *
- */
+
 public class SystemGroup {
 	
 	private SystemName name;
