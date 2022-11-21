@@ -3,11 +3,7 @@
  */
 package artemisLite;
 
-/**
- * 
- * @author emmadeane
- *
- */
+
 public class ReadScript implements Runnable {
 
 	
